@@ -1,0 +1,10 @@
+queries:
+housing=true
+averagecost[lte]=1000
+location.city=Kingston
+careers[in]=Business
+select=name,description
+sort=name
+sort=-name
+page=2
+limit=2
